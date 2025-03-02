@@ -1,0 +1,28 @@
+.header {
+        font-family: "Rubik Spray Paint", system-ui;
+        font-style: normal;
+        padding: 30px;
+        text-align: center;
+        background-color: rgb(184, 50, 101);
+        color: rgb(240, 108, 0);
+}
+
+header h1 {
+	font-size: 40px;
+}
+
+body {
+	font-family: "Rubik Spray Paint", system-ui;
+	padding: 10px;
+	background: #e4739e;
+}
+
+.daystreak {
+    color: rgb(0, 0, 0);
+    background-color: orange;
+    padding: 10px;
+}
+
+.activated {
+    color: rgb(15, 82, 15);
+}
